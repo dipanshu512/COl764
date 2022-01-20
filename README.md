@@ -1,2 +1,2 @@
 # COl764
-This is Information Retrieval and Web Search course taken by Prof. Srikanta Bedathur Jagannath.
+This is Repository of course Assignments of Information Retrieval and Web Search course taken by Prof. Srikanta Bedathur Jagannath.
